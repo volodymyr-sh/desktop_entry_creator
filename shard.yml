@@ -1,0 +1,13 @@
+name: DesktopEntityCreator
+version: 0.1.0
+
+authors:
+  - Volodymyr Shevchuk <volodymyr.shevchuk93@gmail.com>
+
+targets:
+  DesktopEntityCreator:
+    main: src/DesktopEntityCreator.cr
+
+crystal: 0.23.1
+
+license: MIT
